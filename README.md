@@ -9,9 +9,5 @@ Remote sensing Image Captioning is a special case of Image Captioning which solv
 
 ### Contributions
 
-Special thanks to [Team Dhaksha] for providing us with raw images for the dataset. DHAKSHA is an End-to End solution provider in the field of UAS/UAV Technology from Concept Design to Manufacturing & After-market operational support services, viz.,
-Please do check them out.
-
-[//]: # 
-
-[Team Daksha]: <https://www.teamdhaksha.com/>
+Special thanks to Team Dhaksha for providing us with raw images for the dataset. DHAKSHA is an End-to End solution provider in the field of UAS/UAV Technology from Concept Design to Manufacturing & After-market operational support services, viz.,
+Please do check them out at https://www.teamdhaksha.com/.
