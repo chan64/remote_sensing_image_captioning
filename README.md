@@ -4,10 +4,35 @@ Remote sensing Image Captioning is a special case of Image Captioning which solv
 
 ### Requirements
 - Google Collab and Drive 
-- Python
-- Jupyter notebook
+- if running offline, 
+  - Python 
+  - Jupyter notebook
+
+### Installation
+
+Place the .ipynb files in Google Drive and run in Google Collab after creating the below directory structure in Drive.
+
+```bash
+.
+├── Description
+│   ├── testall.txt
+│   └── trainnew.txt
+├── Features
+│   ├── dataset_one_hot_combined.pkl
+│   ├── domain_features.pkl
+│   └── features_resnet152_combined.pkl
+├── model
+│   └── results
+├── classify_domain.ipynb
+├── sample-lstm2\ (1).ipynb
+└── sample-lstm2.ipynb
+```
+
 
 ### Contributions
 
 Special thanks to Team Dhaksha for providing us with raw images for the dataset. DHAKSHA is an End-to End solution provider in the field of UAS/UAV Technology from Concept Design to Manufacturing & After-market operational support services, viz.,
 Please do check them out at https://www.teamdhaksha.com/.
+
+
+
